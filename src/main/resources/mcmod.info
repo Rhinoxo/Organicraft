@@ -1,0 +1,21 @@
+[
+{
+  "modid": "Organicraft",
+  "name": "Organicraft",
+  "description": "Adds many organic items and blocks to Minecraft",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "Rhinoxo"
+  ],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
